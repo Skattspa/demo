@@ -7,9 +7,14 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 },
-    { "id": 3, "body": "some comment", "dummyData": "dummyData" }
+    { "id": 3, "body": "some comment", "postId": 1, "dummyData": "dummyData" }
   ],
   "profile": {
     "name": "typicode"
+  },
+  "categories": {
+    "map": "working time",
+    "directory": "travel and expenses",
+    "index": "business workplace",
   }
 }
