@@ -11,5 +11,15 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "categories":[{
+    "working_time": {
+      "time_recording": "time recording"
+    },
+    "travel_and_expenses": "travel and expenses",
+    "business_workplace":{
+      "workflow_inbox": "workflow inbox",
+      "workflow_substitution": "workflow substitution"
+    }
+  }]
 }
